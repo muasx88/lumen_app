@@ -1,0 +1,12 @@
+.vscode
+.DS_Store
+
+firebase_credentials.json
+
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+.phpunit.result.cache
+composer.lock
